@@ -1,0 +1,25 @@
+{
+  "name": "PWA Outbox - Registro de Incidencias",
+  "short_name": "Outbox",
+  "description": "Registro de incidencias en campo con patrón Outbox, IndexedDB y Background Sync.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1f6feb",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
